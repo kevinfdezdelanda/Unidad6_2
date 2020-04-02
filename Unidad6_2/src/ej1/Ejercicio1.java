@@ -3,7 +3,7 @@ package ej1;
 public class Ejercicio1 {
 	public static void main(String[] args) {
 		System.out.println("Instroduce el numero de alumnos: ");
-		int nAlumnos = Consola.leeInt();
+		int nAlumnos = Consola.leeInt();System.out.println("hola");
 
 		System.out.println("Instroduce el numero de asisgnaturas: ");
 		int nAsisgnaturas = Consola.leeInt();
